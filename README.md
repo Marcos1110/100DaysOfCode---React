@@ -10,7 +10,9 @@ Bom, meu objetivo final é desenvolver uma aplicação completa em React, unindo
 Para me guiar pelos desafios,e estabeleci como base a formação de React da Alura, "Explore React com Javascript".
 
 ### Dia #001 - "Hello, World!"
-<p>Para se iniciar em qualquer linguagem, nada melhor do que o bom e velho "Olá, Mundo!". Este primeiro desafio tem como objetivo obter noções básicas da configuração de de uma aplicação ReactJs e inicar os trabalhos com componentes simples.</p>
+-> Para se iniciar em qualquer linguagem, nada melhor do que o bom e velho "Olá, Mundo!". Este primeiro desafio tem como objetivo obter noções básicas da configuração de de uma aplicação ReactJs e inicar os trabalhos com componentes simples.
+
+[Resolução](https://github.com/Marcos1110/organo/tree/Day%23001)
  
 
  
