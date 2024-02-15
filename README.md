@@ -14,5 +14,9 @@ Para me guiar pelos desafios,e estabeleci como base a formação de React da Alu
 
 [Resolução](https://github.com/Marcos1110/organo/tree/Day%23001)
  
+### Dia #002 - Primeiro componente
 
+-> Criação e estilização do componenten Banner.
+
+[Resolução](https://github.com/Marcos1110/organo/tree/Day-002)https://github.com/Marcos1110/organo/tree/Day-002
  
