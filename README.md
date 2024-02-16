@@ -12,7 +12,7 @@ Para me guiar pelos desafios,e estabeleci como base a formação de React da Alu
 ### Dia #001 - "Hello, World!"
 -> Para se iniciar em qualquer linguagem, nada melhor do que o bom e velho "Olá, Mundo!". Este primeiro desafio tem como objetivo obter noções básicas da configuração de de uma aplicação ReactJs e inicar os trabalhos com componentes simples.
 
-[Resolução](https://github.com/Marcos1110/organo/tree/Day%23001)
+[Resolução](https://github.com/Marcos1110/organo/tree/Day-001)
  
 ### Dia #002 - Primeiro componente
 
