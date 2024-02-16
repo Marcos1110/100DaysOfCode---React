@@ -18,5 +18,10 @@ Para me guiar pelos desafios,e estabeleci como base a formação de React da Alu
 
 -> Criação e estilização do componenten Banner.
 
-[Resolução](https://github.com/Marcos1110/organo/tree/Day-002)https://github.com/Marcos1110/organo/tree/Day-002
- 
+[Resolução](https://github.com/Marcos1110/organo/tree/Day-002)
+
+ ### Dia #003 - Estruturação do Código e Props
+
+ -> Composição de componente usando arrow function e utilização de props.
+
+[Resolução](https://github.com/Marcos1110/organo/tree/Day-003)
