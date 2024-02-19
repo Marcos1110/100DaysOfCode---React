@@ -25,3 +25,9 @@ Para me guiar pelos desafios,e estabeleci como base a formação de React da Alu
  -> Composição de componente usando arrow function e utilização de props.
 
 [Resolução](https://github.com/Marcos1110/organo/tree/Day-003)
+
+### Dia #004 - Finalização do Formulário
+-> No dia de hoje, todo o front-end do for5mulário foi concluido, com adição da droplist com os times e o botão de conclusão.
+
+[Resolução](https://github.com/Marcos1110/organo/tree/Day-004)
+
